@@ -6,6 +6,6 @@
 ##############################################################################
 
 import subprocess
-from cobalt import Cobalt, UserPolicy
+from cobalt.cobalt import Cobalt, UserPolicy
 
 __all__ = [ 'Cobalt', 'UserPolicy' ]
